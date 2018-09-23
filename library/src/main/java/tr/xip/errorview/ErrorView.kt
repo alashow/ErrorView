@@ -161,7 +161,7 @@ class ErrorView : LinearLayout {
             subtitleView.setTextColor(subtitleColor)
 
             retryView.setTextColor(retryColor)
-            retryView.setBackgroundResource(retryBackground)
+            //retryView.setBackgroundResource(retryBackground)
         } finally {
             a.recycle()
         }
